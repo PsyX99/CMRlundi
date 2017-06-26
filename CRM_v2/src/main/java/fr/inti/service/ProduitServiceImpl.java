@@ -20,7 +20,6 @@ public class ProduitServiceImpl implements IProduitService {
 		this.produitDao=produitDao;
 	}
 
-	@Override
 	public void addProduit(Produit produit) {
 		produitDao.save(produit);
 	}
