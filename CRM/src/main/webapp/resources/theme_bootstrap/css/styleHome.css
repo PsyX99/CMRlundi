@@ -1,0 +1,69 @@
+.error{
+	color: red;
+	font-size: 16px;
+}
+.content-section {
+    padding-top: 40px!important;
+}
+.table-spacer{
+	padding-top: 50px;
+}
+label{
+	font-weight: bold!important;
+	font-size: 20px!important;
+}
+.sizeSelect{
+	width : 250px;
+	height: 40px;
+	background-color: gray;
+	color: pink;
+	font-size: 20px;
+}
+
+tr td{
+	font-size: 16px;
+	
+}
+tr th{
+	font-size: 20px;
+}
+.errorValid{
+	padding-left: 20px;
+	color : red;
+	font-size: 16px;
+}
+table tr:hover{
+	color:red!important;
+}
+.tableOperation{
+	margin: 20px;
+	padding: 50px;
+	border: 1px solid pink;
+}
+.tableOperation input{
+	margin: 20px;
+}
+.titreOperation{
+	font-size: 22px;
+	text-align: center;
+}
+.red{
+	color:red;
+	font-weight: bold;
+}
+.btn-mg{
+	margin-right: 10px!important;
+}
+.link{
+	font-size: 20px;
+	text-decoration: underline;
+	text-transform: uppercase;
+}
+.infoBanque{
+	text-align: left;
+	/*color: #42dca3;*/
+	color: white;
+}
+.nomClient,.solde{
+	color: #42dca3;
+}
